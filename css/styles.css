@@ -41,7 +41,7 @@ a {
 .header {
   border-bottom: 1px solid #e7e9fc;
 }
-.header .container {
+.header-container {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -200,7 +200,7 @@ a {
   width: calc((100% - 48px) / 3);
 }
 .portfolio-name {
-  margin-bottom: 32px 0 8px;
+  margin-bottom: 8px;
   font-size: 20px;
   font-weight: 500;
   color: #2e2f42;
@@ -213,7 +213,7 @@ a {
   background-color: #2e2f42;
   padding: 100px 0;
 }
-.footer .logo {
+.footer-logo {
   color: #f4f4fd;
   display: inline-block;
   margin-bottom: 16px;
